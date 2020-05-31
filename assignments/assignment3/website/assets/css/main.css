@@ -1,0 +1,82 @@
+@font-face {
+    font-family: "Gilroy bold";
+    src: url("../fonts/Gilroy-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Gilroy medium";
+    src: url("../fonts/Gilroy-Medium.ttf") format("truetype");
+}
+
+body {
+    font-family: "Gilroy bold";
+    background-color: var(--color-greensoft);
+}
+a {
+    text-decoration: none;
+}
+
+header nav {
+    display: none
+}
+h1 {
+    text-align: center;
+    background-color: var(--color-greendark);
+    padding: 70px 85px;
+    border-radius: 12px;
+    color: var(--color-whitesoft);
+}
+
+span {
+    background-color: var(--color-greendark);
+    margin-right: 20px;
+    padding: 8px;
+    border-radius: 50px;
+}
+
+.title-top {
+    margin-top: 100px;
+}
+
+
+
+
+@media (min-width: 768px) {
+    body {
+        background-color: var(--color-greenlight);
+    }
+    header nav {
+        display: block;
+    }
+
+    header nav ul {
+        list-style-type: none;
+    }
+
+    .right-content {
+        margin-left: 900px;
+    }
+
+    nav ul li {
+        word-spacing: 15px;
+    }
+
+    header nav ul li a {
+        text-decoration: none;
+        color: var(--color-whitesoft);
+    }
+
+    .top-info {
+        display: none;
+    }
+
+    h1 {
+        font-size: 75px;
+    }
+
+    .title {
+        margin-top: 150px;
+        text-transform: uppercase;
+    }
+}
+
