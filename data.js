@@ -24,18 +24,18 @@ const data = {
         "buttons": [{
                 "text": "Inspiratieboek",
                 "title": "Mijn PDF met inspiratie (login, functions, result)",
-                "href": "./assignments/assignment1/documents/1AVDb_MelihAtmaca_Inspiratieboek_SmallApplication.pdf",
+                "href": "./assignments/assignment1/documents/a1-inspiratieboek.pdf",
                 "target": "_blank"
             },
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "./assignments/assignment1/documents/1AVDb_MelihAtmaca_Opdracht1_SmallApplication.xd",
+                "href": "./assignments/assignment1/documents/a1-xd.xd",
             },
             {
                 "text": "Adobe XD Prototype",
                 "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/868527aa-5e5d-44bc-4094-0ee0bddf9695-f0b4/",
+                "href": "https://xd.adobe.com/view/d6873a03-7d10-46b0-55a1-f49fa17db8fa-a0b6/",
                 "target": "_blank"
             }
         ]
@@ -49,18 +49,18 @@ const data = {
         "buttons": [{
                 "text": "Inspiratieboek",
                 "title": "Mijn PDF met inspiratie",
-                "href": "./assignments/assignment2/documents/a2-inspiration.pdf",
+                "href": "./assignments/assignment2/documents/a2-inspiratieboek.pdf",
                 "target": "_blank"
             },
             {
                 "text": "Adobe XD",
                 "title": "Mijn Adobe XD document",
-                "href": "./assignments/assignment2/documents/1AVDb_MelihAtmaca_Opdracht2_VanWireframeNaarDesign.xd",
+                "href": "./assignments/assignment2/documents/a2-xd.xd",
             },
             {
                 "text": "Adobe XD Prototype",
                 "title": "Mijn Adobe XD prototype (share link)",
-                "href": "https://xd.adobe.com/view/31254378-d4af-481d-6cf3-5f9922a9e3f1-4714/",
+                "href": "https://xd.adobe.com/view/e2be926e-38c0-453f-4ab2-75aa3affe6fd-948f/",
                 "target": "_blank"
             }
         ]
@@ -74,18 +74,18 @@ const data = {
         "buttons": [{
                 "text": "Researchdocument",
                 "title": "Mijn PDF met research",
-                "href": "./assignments/assignment3/documents/1AVDb_MelihAtmaca_Researchdocument.pdf",
+                "href": "./assignments/assignment3/documents/a3-researchdocument.pdf",
                 "target": "_blank"
             },
             {
                 "text": "Adobe XD (met Wireframes)",
                 "title": "Mijn Adobe XD document met de wireframes van mijn applicatie",
-                "href": "./assignments/assignment3/documents/1AVDb_MelihAtmaca_Wireframes.xd",
+                "href": "./assignments/assignment3/documents/a3-wireframes.xd",
             },
             {
                 "text": "Adobe XD (met Visual Designs)",
                 "title": "Mijn Adobe XD document voor de visual designs van mijn applicatie",
-                "href": "./assignments/assignment3/documents/Visual_Designs.zip",
+                "href": "./assignments/assignment3/documents/a3-visualdesigns.xd",
             },
             {
                 "text": "Website",
