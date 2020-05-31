@@ -1,0 +1,60 @@
+body {
+    background-color: var(--color-greensoft);
+    margin: 0;
+    color: var(--color-whitesoft);
+}
+
+.details {
+    background-color: var(--color-greendark);
+    margin-top: 72px;
+    border-radius: 12px;
+}
+
+
+.image-detailpagina {
+    width: 50%;
+    margin-left: 80px;
+    border-radius: 12px;
+    margin-bottom: 40px;
+    margin-top: 15px;
+}
+
+.title-detailpagina {
+    font-size: 21px;
+    padding: 0;
+    margin-left: 20px;
+    margin-top: 50px;
+    text-align: left;
+}
+
+.text-detailpagina {
+    margin-left: 20px;
+    font-family: "Gilroy medium";
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.extra-text {
+    display: none;
+}
+
+@media (min-width: 768px) {
+    body {
+        color: var(--color-greendark);
+        background-color: var(--color-greendark);
+    }
+    .details {
+        background-color: var(--color-whitesoft);
+        border-radius: 25px 25px 25px 0;
+    }
+
+    .title-detailpagina {
+        background-color: transparent;
+        color: var(--color-greendark);
+    }
+
+    .extra-text {
+        display: block;
+        background-color: transparent
+    }
+}

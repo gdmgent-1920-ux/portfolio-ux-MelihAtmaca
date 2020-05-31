@@ -24,6 +24,10 @@ body {
     display: none;
 }
 
+.article a {
+    color: var(--color-whitesoft);
+}
+
 @media (min-width: 768px) {
 
     body {
@@ -54,6 +58,8 @@ body {
         margin-left: 145px;
     }
 
-
+    .article a {
+        color: var(--color-greendark);
+    }
 
 }
